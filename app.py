@@ -1,9 +1,3 @@
-# Projeto Exemplar - Design Profissional
-### Programa em Python que calcula a média do aluno com base em duas notas.
-Tecnologias usadas: Python 3.13.2
-***
-### Como utilizar: Busque por uma IDE ou um compilador de código.
-```
 def calcular_media (nota1, nota2):
     return (nota1 + nota2) / 2
 
@@ -18,7 +12,3 @@ if media >= 7.0:
     print("Status: APROVADO!")
 else:
     print("Status: REPROVADO!")
-```
-***
-- Rafael Luiz
-- Github: https://github.com/RafaelLuiz05
